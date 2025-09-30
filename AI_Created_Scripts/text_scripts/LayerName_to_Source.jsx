@@ -1,3 +1,25 @@
+/*
+===========================================================
+Text Layer Name to Source - Version 1.0
+Author: ChatGPT and Josh Spivey (OpenAI)
+Date: 2025-08-14
+
+Description:
+Takes all selected text layers and renames their layers to match the source
+text
+ 
+ - Truncates to 30 characters and adds an ellipse...
+ - Eliminates the need to hit "Enter, Delete, Enter" on each individual layer
+
+Change Log:
+v1.0 (2025-08-14)
+ - 
+
+===========================================================
+*/
+
+
+
 {
     function renameTextLayersToSource() {
         var comp = app.project.activeItem;
