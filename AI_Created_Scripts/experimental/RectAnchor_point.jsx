@@ -1,3 +1,10 @@
+/*
+This script is meant to adjust a rectangle shape layers position
+so that it will appear to be scaling from a selected anchor point. Still in
+testing.
+*/
+
+
 {
     function setRectangleAnchorExpression() {
         var comp = app.project.activeItem;

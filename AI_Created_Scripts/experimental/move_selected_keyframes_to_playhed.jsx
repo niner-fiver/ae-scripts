@@ -2,6 +2,8 @@
 // This script moves all selected keyframes to the current playhead position
 // while preserving their values and easing properties
 
+// This script is not working yet.
+
 (function alignSelectedKeyframesToPlayhead() {
     
     // Check if we have an active composition
